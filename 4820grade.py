@@ -2,7 +2,7 @@
 participation_percent = 70 / 100
 prelim1_percent = 88 / 100
 prelim2_percent = 93.9 / 100
-final_percent = 68.5 / 100
+final_percent = 87.5 / 100
 homework_percent = 96.15 / 100
 homework_challenge = 40 / 100
 
